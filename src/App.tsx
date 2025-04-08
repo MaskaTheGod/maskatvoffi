@@ -15,6 +15,7 @@ import FAQPage from './components/FAQPage'
 // import HelpCenterPage from './components/HelpCenterPage'
 import ContactUsPage from './components/ContactUsPage'
 import TestPage from './components/TestPage'
+import AnimeStreamingPage from './components/AnimeStreamingPage'
 
 // Style for the main container
 const AppContainer = styled.div`
@@ -476,6 +477,7 @@ function App() {
       <Route path="/faq" element={<FAQPage />} />
       <Route path="/contact-us" element={<ContactUsPage />} />
       <Route path="/test" element={<TestPage />} />
+      <Route path="/anime" element={<AnimeStreamingPage />} />
       <Route path="/404" element={<NotFoundPage />} />
       <Route path="*" element={<NotFoundPage />} />
     </Routes>

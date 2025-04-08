@@ -85,6 +85,7 @@ const NavLink = styled.a<{ active?: boolean }>`
   letter-spacing: 0.5px;
   text-transform: uppercase;
   transition: all 0.3s ease;
+  cursor: pointer;
   
   &:hover {
     color: ${props => props.active ? '#FF4D6D' : 'white'};
@@ -130,7 +131,7 @@ const Header: React.FC<HeaderProps> = ({
   
   const defaultLinks = [
     { label: 'Home', path: '/' },
-    { label: 'Animes', path: '#' },
+    { label: 'Animes', path: '/anime' },
     { label: 'Movies', path: '#' },
     { label: 'Latest', path: '#' },
     { label: 'My List', path: '#' }
@@ -175,7 +176,11 @@ const Header: React.FC<HeaderProps> = ({
             <NavLink 
               key={index}
               active={isActive(link.path)}
-              onClick={() => link.path.startsWith('/') ? navigate(link.path) : null}
+              onClick={() => {
+                if (link.path.startsWith('/')) {
+                  navigate(link.path);
+                }
+              }}
             >
               {link.label}
             </NavLink>
