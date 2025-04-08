@@ -1,0 +1,29 @@
+<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background glow effect -->
+  <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="8" result="blur" />
+    <feComposite in="SourceGraphic" in2="blur" operator="over" />
+  </filter>
+  
+  <!-- Main TV text -->
+  <text x="150" y="120" 
+        font-family="Arial, sans-serif" 
+        font-size="200" 
+        font-weight="bold" 
+        text-anchor="middle" 
+        fill="#FF4D6D" 
+        filter="url(#glow)">
+    TV
+  </text>
+  
+  <!-- Subtle highlight -->
+  <text x="148" y="118" 
+        font-family="Arial, sans-serif" 
+        font-size="120" 
+        font-weight="bold" 
+        text-anchor="middle" 
+        fill="#FF7C98" 
+        opacity="0.6">
+    TV
+  </text>
+</svg>
