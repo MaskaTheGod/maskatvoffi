@@ -56,7 +56,7 @@ const FooterLinks: React.FC<FooterLinksProps> = ({ className }) => {
           </StyledLink>
         ))}
       </LinksContainer>
-      <div>© {new Date().getFullYear()} Maska.TV. All rights reserved.</div>
+      <div>© {new Date().getFullYear()} Maska.FR. All rights reserved.</div>
     </FooterContainer>
   );
 };

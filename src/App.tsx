@@ -355,7 +355,7 @@ function App() {
               >
                 <LogoContainer>
                   <MaskaText>MASKA</MaskaText>
-                  <TVText>.TV</TVText>
+                  <TVText>.FR</TVText>
                 </LogoContainer>
               </MainLogo>
 

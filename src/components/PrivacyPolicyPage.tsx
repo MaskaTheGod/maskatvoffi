@@ -325,7 +325,7 @@ const PrivacyPolicyPage: React.FC = () => {
           <Section id="introduction" variants={itemVariants}>
             <SectionTitle>Introduction</SectionTitle>
             <PolicyText>
-              Maska.TV ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our streaming service, including mobile applications and related services (collectively, the "Service").
+              Maska.FR ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our streaming service, including mobile applications and related services (collectively, the "Service").
             </PolicyText>
             <PolicyText>
               Please read this Privacy Policy carefully. By accessing or using our Service, you acknowledge that you have read, understood, and agree to be bound by all the terms of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not access the Service.
@@ -482,8 +482,8 @@ const PrivacyPolicyPage: React.FC = () => {
               }}
               transition={{ duration: 0.5 }}
             >
-              <ContactTitle>Maska.TV Privacy Team</ContactTitle>
-              <PolicyText>Email: privacy@maska.tv</PolicyText>
+              <ContactTitle>Maska.FR Privacy Team</ContactTitle>
+              <PolicyText>Email: privacy@maska.FR</PolicyText>
               <PolicyText>Address: 123 Entertainment Blvd, Suite 500, Los Angeles, CA 90001</PolicyText>
               <PolicyText>Phone: +1 (800) 555-MASKA</PolicyText>
             </ContactCard>

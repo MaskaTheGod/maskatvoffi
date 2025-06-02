@@ -301,13 +301,13 @@ const TermsOfServicePage: React.FC = () => {
           <Section id="acceptance" variants={itemVariants}>
             <SectionTitle>Acceptance of Terms</SectionTitle>
             <TermsText>
-              Welcome to Maska.TV. These Terms of Service ("Terms") govern your access to and use of the Maska.TV streaming service, including any content, functionality, and services offered on or through our website and applications (collectively, the "Service").
+              Welcome to Maska.FR. These Terms of Service ("Terms") govern your access to and use of the Maska.FR streaming service, including any content, functionality, and services offered on or through our website and applications (collectively, the "Service").
             </TermsText>
             <TermsText>
               By registering for an account, accessing, or using our Service, you agree to be bound by these Terms. If you do not agree to these Terms, you must not access or use the Service.
             </TermsText>
             <TermsText>
-              Please read these Terms carefully before using our Service. These Terms constitute a legally binding agreement between you and Maska Entertainment, Inc. ("Maska.TV," "we," "us," or "our").
+              Please read these Terms carefully before using our Service. These Terms constitute a legally binding agreement between you and Maska Entertainment, Inc. ("Maska.FR," "we," "us," or "our").
             </TermsText>
             <FloatingIcon
               initial={{ rotate: 0 }}
@@ -351,14 +351,14 @@ const TermsOfServicePage: React.FC = () => {
               You agree to immediately notify us of any unauthorized use of your account or any other breach of security. We will not be liable for any loss or damage arising from your failure to protect your account information.
             </TermsText>
             <TermsText>
-              Maska.TV reserves the right to disable any user account at any time if, in our opinion, you have violated any provisions of these Terms.
+              Maska.FR reserves the right to disable any user account at any time if, in our opinion, you have violated any provisions of these Terms.
             </TermsText>
           </Section>
 
           <Section id="subscription" variants={itemVariants}>
             <SectionTitle>Subscription and Billing</SectionTitle>
             <TermsText>
-              Maska.TV offers various subscription plans. By subscribing to our Service, you agree to the following terms:
+              Maska.FR offers various subscription plans. By subscribing to our Service, you agree to the following terms:
             </TermsText>
             <List>
               <ListItem>
@@ -385,7 +385,7 @@ const TermsOfServicePage: React.FC = () => {
           <Section id="content" variants={itemVariants}>
             <SectionTitle>Content and Licenses</SectionTitle>
             <TermsText>
-              Maska.TV grants you a limited, non-exclusive, non-transferable, revocable license to access and use the Service, including streaming and temporarily downloading content for personal, non-commercial use only.
+              Maska.FR grants you a limited, non-exclusive, non-transferable, revocable license to access and use the Service, including streaming and temporarily downloading content for personal, non-commercial use only.
             </TermsText>
             <TermsText>
               You may not:
@@ -398,7 +398,7 @@ const TermsOfServicePage: React.FC = () => {
               <ListItem>Circumvent, disable, or interfere with security-related features of the Service</ListItem>
             </List>
             <TermsText>
-              All content provided through the Service is owned by Maska.TV or its licensors and is protected by copyright, trademark, and other intellectual property laws.
+              All content provided through the Service is owned by Maska.FR or its licensors and is protected by copyright, trademark, and other intellectual property laws.
             </TermsText>
             <TermsText>
               We reserve the right to add, remove, or modify content available through the Service at any time without notice.
@@ -412,7 +412,7 @@ const TermsOfServicePage: React.FC = () => {
             </TermsText>
             <List>
               <ListItem>In any way that violates any applicable federal, state, local, or international law or regulation</ListItem>
-              <ListItem>To impersonate or attempt to impersonate Maska.TV, a Maska.TV employee, another user, or any other person or entity</ListItem>
+              <ListItem>To impersonate or attempt to impersonate Maska.FR, a Maska.FR employee, another user, or any other person or entity</ListItem>
               <ListItem>To engage in any conduct that restricts or inhibits anyone's use or enjoyment of the Service</ListItem>
               <ListItem>To attempt to gain unauthorized access to, interfere with, damage, or disrupt any parts of the Service, the server on which the Service is stored, or any server, computer, or database connected to the Service</ListItem>
               <ListItem>To attack the Service via a denial-of-service attack or a distributed denial-of-service attack</ListItem>
@@ -430,13 +430,13 @@ const TermsOfServicePage: React.FC = () => {
               THE SERVICE AND ALL CONTENT PROVIDED THROUGH THE SERVICE ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED.
             </TermsText>
             <TermsText>
-              TO THE FULLEST EXTENT PERMITTED BY LAW, MASKA.TV DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+              TO THE FULLEST EXTENT PERMITTED BY LAW, MASKA.FR DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
             </TermsText>
             <TermsText>
-              MASKA.TV DOES NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE, THAT DEFECTS WILL BE CORRECTED, OR THAT THE SERVICE OR THE SERVERS THAT MAKE IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
+              MASKA.FR DOES NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE, THAT DEFECTS WILL BE CORRECTED, OR THAT THE SERVICE OR THE SERVERS THAT MAKE IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
             </TermsText>
             <TermsText>
-              IN NO EVENT WILL MASKA.TV, ITS AFFILIATES, OR THEIR LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS, OR DIRECTORS BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE SERVICE, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES.
+              IN NO EVENT WILL MASKA.FR, ITS AFFILIATES, OR THEIR LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS, OR DIRECTORS BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE SERVICE, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES.
             </TermsText>
             <TermsText>
               SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATIONS OR EXCLUSIONS MAY NOT APPLY TO YOU.
@@ -475,13 +475,13 @@ const TermsOfServicePage: React.FC = () => {
               <strong>Governing Law:</strong> These Terms are governed by and construed in accordance with the laws of the State of California, without giving effect to any principles of conflicts of law.
             </TermsText>
             <TermsText>
-              <strong>Dispute Resolution:</strong> Any dispute arising from or relating to these Terms or the Service will be resolved through binding arbitration in Los Angeles, California, except that you or Maska.TV may seek injunctive or other equitable relief in any court of competent jurisdiction.
+              <strong>Dispute Resolution:</strong> Any dispute arising from or relating to these Terms or the Service will be resolved through binding arbitration in Los Angeles, California, except that you or Maska.FR may seek injunctive or other equitable relief in any court of competent jurisdiction.
             </TermsText>
             <TermsText>
               <strong>Severability:</strong> If any provision of these Terms is held to be invalid, illegal, or unenforceable, such provision shall be struck, and the remaining provisions shall remain in full force and effect.
             </TermsText>
             <TermsText>
-              <strong>Entire Agreement:</strong> These Terms, together with our Privacy Policy, constitute the sole and entire agreement between you and Maska.TV regarding the Service and supersede all prior and contemporaneous understandings, agreements, representations, and warranties.
+              <strong>Entire Agreement:</strong> These Terms, together with our Privacy Policy, constitute the sole and entire agreement between you and Maska.FR regarding the Service and supersede all prior and contemporaneous understandings, agreements, representations, and warranties.
             </TermsText>
             <TermsText>
               <strong>Waiver:</strong> No waiver of any term or condition set forth in these Terms shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition.
@@ -490,7 +490,7 @@ const TermsOfServicePage: React.FC = () => {
               <strong>Assignment:</strong> You may not assign or transfer these Terms or your rights under these Terms, in whole or in part, by operation of law or otherwise, without our prior written consent. We may assign these Terms at any time without notice.
             </TermsText>
             <TermsText>
-              <strong>Contact Information:</strong> Questions or comments about the Terms or the Service may be directed to us at the email address terms@maska.tv or by mail at Maska Entertainment, Inc., 123 Entertainment Blvd, Suite 500, Los Angeles, CA 90001.
+              <strong>Contact Information:</strong> Questions or comments about the Terms or the Service may be directed to us at the email address terms@maska.FR or by mail at Maska Entertainment, Inc., 123 Entertainment Blvd, Suite 500, Los Angeles, CA 90001.
             </TermsText>
           </Section>
         </motion.div>

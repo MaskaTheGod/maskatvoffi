@@ -534,25 +534,25 @@ const AboutUsPage: React.FC = () => {
     {
       name: "Alexandra Chen",
       title: "Founder & CEO",
-      bio: "Former Netflix executive with a passion for storytelling and immersive experiences. Visionary behind Maska.TV's unique approach to content curation.",
+      bio: "Former Netflix executive with a passion for storytelling and immersive experiences. Visionary behind Maska.FR's unique approach to content curation.",
       photo: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     },
     {
       name: "David Rodriguez",
       title: "Chief Technology Officer",
-      bio: "Tech innovator with 15+ years in streaming platforms. Led development of Maska.TV's groundbreaking 8K streaming technology.",
+      bio: "Tech innovator with 15+ years in streaming platforms. Led development of Maska.FR's groundbreaking 8K streaming technology.",
       photo: "https://images.unsplash.com/photo-1566492031773-4f4e44671857?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     },
     {
       name: "Sophia Thompson",
       title: "Chief Content Officer",
-      bio: "Award-winning producer who oversees Maska.TV's exclusive content development and acquisition strategy across global markets.",
+      bio: "Award-winning producer who oversees Maska.FR's exclusive content development and acquisition strategy across global markets.",
       photo: "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     },
     {
       name: "Michael Kim",
       title: "Head of User Experience",
-      bio: "UX visionary responsible for Maska.TV's intuitive, accessible, and groundbreaking interface across all platforms and devices.",
+      bio: "UX visionary responsible for Maska.FR's intuitive, accessible, and groundbreaking interface across all platforms and devices.",
       photo: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
     }
   ];
@@ -671,7 +671,7 @@ const AboutUsPage: React.FC = () => {
             transition={{ duration: 1.3, delay: 0.3, type: "spring", damping: 12 }}
           >
             <HeroSubtitle>
-              Discover how Maska.TV is <Highlight>revolutionizing entertainment</Highlight> through cutting-edge technology, visionary leadership, and a passion for extraordinary content.
+              Discover how Maska.FR is <Highlight>revolutionizing entertainment</Highlight> through cutting-edge technology, visionary leadership, and a passion for extraordinary content.
             </HeroSubtitle>
           </motion.div>
         </HeroSection>
@@ -687,7 +687,7 @@ const AboutUsPage: React.FC = () => {
             viewport={{ once: false }}
             transition={{ duration: 0.9, type: "spring", damping: 15 }}
           >
-            The Maska.TV Journey
+            The Maska.FR Journey
           </SectionTitle>
           
           <SectionContent>
@@ -705,10 +705,10 @@ const AboutUsPage: React.FC = () => {
               <StoryText>
                 <StoryTitle>Our Beginning</StoryTitle>
                 <StoryParagraph>
-                  Founded in 2022, Maska.TV began with a revolutionary vision: to create an entertainment platform that would transcend traditional streaming services. Our founders, a team of industry veterans and tech innovators, recognized the limitations of existing platforms and set out to build something extraordinary.
+                  Founded in 2022, Maska.FR began with a revolutionary vision: to create an entertainment platform that would transcend traditional streaming services. Our founders, a team of industry veterans and tech innovators, recognized the limitations of existing platforms and set out to build something extraordinary.
                 </StoryParagraph>
                 <StoryParagraph>
-                  Unlike conventional streaming services, Maska.TV was designed from the ground up to deliver content in ways never before possible—combining cinematic quality with cutting-edge technology to create truly immersive viewing experiences.
+                  Unlike conventional streaming services, Maska.FR was designed from the ground up to deliver content in ways never before possible—combining cinematic quality with cutting-edge technology to create truly immersive viewing experiences.
                 </StoryParagraph>
               </StoryText>
             </StoryBlock>
@@ -727,7 +727,7 @@ const AboutUsPage: React.FC = () => {
               <StoryText>
                 <StoryTitle>Innovation at Our Core</StoryTitle>
                 <StoryParagraph>
-                  The first breakthrough came with our proprietary 8K streaming technology, developed through three years of intensive research. This innovation allowed us to deliver crystal-clear visuals with zero buffering—a technological achievement that quickly distinguished Maska.TV in the competitive streaming landscape.
+                  The first breakthrough came with our proprietary 8K streaming technology, developed through three years of intensive research. This innovation allowed us to deliver crystal-clear visuals with zero buffering—a technological achievement that quickly distinguished Maska.FR in the competitive streaming landscape.
                 </StoryParagraph>
                 <StoryParagraph>
                   Our engineering team, comprised of former leaders from Silicon Valley's tech giants, continues to push the boundaries of what's possible in digital entertainment, developing new ways to enhance the viewing experience.
@@ -749,7 +749,7 @@ const AboutUsPage: React.FC = () => {
               <StoryText>
                 <StoryTitle>Global Impact</StoryTitle>
                 <StoryParagraph>
-                  Today, Maska.TV serves millions of subscribers across 190 countries, with a library of over 10,000 exclusive titles. Our original productions have garnered critical acclaim, including 28 Emmy Awards and 12 Academy Award nominations.
+                  Today, Maska.FR serves millions of subscribers across 190 countries, with a library of over 10,000 exclusive titles. Our original productions have garnered critical acclaim, including 28 Emmy Awards and 12 Academy Award nominations.
                 </StoryParagraph>
                 <StoryParagraph>
                   Beyond entertainment, we're committed to sustainability and social responsibility. Our carbon-neutral streaming infrastructure and commitment to diverse storytelling reflect our belief that great entertainment can also be a force for good.
@@ -864,7 +864,7 @@ const AboutUsPage: React.FC = () => {
             margin: 0,
             filter: 'drop-shadow(0 0 15px rgba(255, 20, 72, 0.4))'
           }}>
-            .TV
+            .FR
           </span>
         </FooterLogo>
         

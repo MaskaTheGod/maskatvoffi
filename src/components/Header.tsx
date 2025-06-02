@@ -157,7 +157,7 @@ const Header: React.FC<HeaderProps> = ({
         >
           <LogoContainer onClick={() => navigate('/')}>
             <MaskaText>MASKA</MaskaText>
-            <TVText>.TV</TVText>
+            <TVText>.FR</TVText>
           </LogoContainer>
         </HeaderLogo>
         

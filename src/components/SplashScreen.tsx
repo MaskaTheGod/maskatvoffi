@@ -148,7 +148,7 @@ export const SplashScreen: React.FC<SplashScreenProps> = ({ onFinish }) => {
           
           <div className="brand-name">
             <span className="brand-text">MASKA</span>
-            <span className="brand-accent">.TV</span>
+            <span className="brand-accent">.FR</span>
           </div>
           
           <div className="start-prompt">

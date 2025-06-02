@@ -308,10 +308,10 @@ const faqData: FAQCategory[] = [
     title: "Subscription & Billing",
     items: [
       {
-        question: "What subscription plans does Maska.TV offer?",
+        question: "What subscription plans does Maska.FR offer?",
         answer: (
           <>
-            <p>Maska.TV offers three subscription tiers:</p>
+            <p>Maska.FR offers three subscription tiers:</p>
             <ul style={{ paddingLeft: '1.5rem', marginTop: '0.8rem' }}>
               <li style={{ marginBottom: '0.5rem' }}><strong>Basic</strong> ($8.99/month): HD streaming on one device</li>
               <li style={{ marginBottom: '0.5rem' }}><strong>Standard</strong> ($14.99/month): 4K streaming on up to two devices simultaneously</li>
@@ -335,7 +335,7 @@ const faqData: FAQCategory[] = [
       },
       {
         question: "What payment methods are accepted?",
-        answer: "Maska.TV accepts all major credit/debit cards (Visa, Mastercard, American Express, Discover), PayPal, Apple Pay, and Google Pay. In select regions, we also support local payment methods."
+        answer: "Maska.FR accepts all major credit/debit cards (Visa, Mastercard, American Express, Discover), PayPal, Apple Pay, and Google Pay. In select regions, we also support local payment methods."
       }
     ]
   },
@@ -343,24 +343,24 @@ const faqData: FAQCategory[] = [
     title: "Content & Streaming",
     items: [
       {
-        question: "What types of content are available on Maska.TV?",
-        answer: "Maska.TV offers a diverse library of movies, TV shows, documentaries, and exclusive original productions. Our content spans various genres including drama, comedy, action, sci-fi, horror, and family-friendly programming. We regularly add new titles and produce original content exclusively for our platform."
+        question: "What types of content are available on Maska.FR?",
+        answer: "Maska.FR offers a diverse library of movies, TV shows, documentaries, and exclusive original productions. Our content spans various genres including drama, comedy, action, sci-fi, horror, and family-friendly programming. We regularly add new titles and produce original content exclusively for our platform."
       },
       {
         question: "Can I download content for offline viewing?",
-        answer: "Yes, most titles on Maska.TV are available for download on mobile devices for offline viewing. Look for the download icon on eligible titles. Downloads remain available for 30 days and expire 48 hours after you start watching."
+        answer: "Yes, most titles on Maska.FR are available for download on mobile devices for offline viewing. Look for the download icon on eligible titles. Downloads remain available for 30 days and expire 48 hours after you start watching."
       },
       {
-        question: "What video quality does Maska.TV offer?",
-        answer: "Depending on your subscription plan and internet speed, Maska.TV offers streaming in SD (480p), HD (1080p), and 4K Ultra HD with HDR and Dolby Vision on select titles. We also offer Dolby Atmos audio on compatible devices with our Premium plan."
+        question: "What video quality does Maska.FR offer?",
+        answer: "Depending on your subscription plan and internet speed, Maska.FR offers streaming in SD (480p), HD (1080p), and 4K Ultra HD with HDR and Dolby Vision on select titles. We also offer Dolby Atmos audio on compatible devices with our Premium plan."
       },
       {
         question: "How many devices can I stream on simultaneously?",
         answer: "The number of devices you can stream on simultaneously depends on your subscription plan: Basic (1 device), Standard (2 devices), or Premium (4 devices)."
       },
       {
-        question: "Does Maska.TV have parental controls?",
-        answer: "Yes, Maska.TV offers comprehensive parental controls. You can create kids' profiles with age-appropriate content restrictions, set PIN-protected access to adult content, and monitor viewing activity for all profiles on your account."
+        question: "Does Maska.FR have parental controls?",
+        answer: "Yes, Maska.FR offers comprehensive parental controls. You can create kids' profiles with age-appropriate content restrictions, set PIN-protected access to adult content, and monitor viewing activity for all profiles on your account."
       }
     ]
   },
@@ -368,10 +368,10 @@ const faqData: FAQCategory[] = [
     title: "Technical Support",
     items: [
       {
-        question: "What devices can I watch Maska.TV on?",
+        question: "What devices can I watch Maska.FR on?",
         answer: (
           <>
-            <p>Maska.TV is available on a wide range of devices, including:</p>
+            <p>Maska.FR is available on a wide range of devices, including:</p>
             <ul style={{ paddingLeft: '1.5rem', marginTop: '0.8rem' }}>
               <li style={{ marginBottom: '0.5rem' }}>Smartphones and tablets (iOS and Android)</li>
               <li style={{ marginBottom: '0.5rem' }}>Web browsers (Chrome, Safari, Firefox, Edge)</li>
@@ -391,8 +391,8 @@ const faqData: FAQCategory[] = [
         answer: "To reset your password, go to the login screen and click 'Forgot Password'. Enter the email address associated with your account, and we'll send you a password reset link. For security reasons, this link expires after 24 hours."
       },
       {
-        question: "Can I watch Maska.TV while traveling abroad?",
-        answer: "Yes, Maska.TV is available in over 190 countries. However, the content library may vary based on your location due to licensing restrictions. Some features may also be limited in certain regions. Downloaded content remains accessible regardless of your location."
+        question: "Can I watch Maska.FR while traveling abroad?",
+        answer: "Yes, Maska.FR is available in over 190 countries. However, the content library may vary based on your location due to licensing restrictions. Some features may also be limited in certain regions. Downloaded content remains accessible regardless of your location."
       },
       {
         question: "My audio and video are out of sync. How can I fix this?",
@@ -405,11 +405,11 @@ const faqData: FAQCategory[] = [
     items: [
       {
         question: "How many profiles can I create on my account?",
-        answer: "You can create up to 5 profiles on a single Maska.TV account. Each profile maintains its own watchlist, viewing history, and personalized recommendations."
+        answer: "You can create up to 5 profiles on a single Maska.FR account. Each profile maintains its own watchlist, viewing history, and personalized recommendations."
       },
       {
         question: "Can I share my account with family members?",
-        answer: "Yes, Maska.TV allows account sharing among household members. Each person can create their own profile. However, the number of simultaneous streams is limited by your subscription plan. For security reasons, we may verify that shared accounts are within the same household."
+        answer: "Yes, Maska.FR allows account sharing among household members. Each person can create their own profile. However, the number of simultaneous streams is limited by your subscription plan. For security reasons, we may verify that shared accounts are within the same household."
       },
       {
         question: "How do I update my billing information?",
@@ -503,7 +503,7 @@ const FAQPage: React.FC = () => {
         >
           <HeroTitle>Frequently Asked Questions</HeroTitle>
           <HeroSubtitle>
-            Find answers to common questions about Maska.TV's subscription plans, features, and technical support.
+            Find answers to common questions about Maska.FR's subscription plans, features, and technical support.
           </HeroSubtitle>
           
           <SearchContainer>

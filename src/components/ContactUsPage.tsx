@@ -336,7 +336,7 @@ const ContactUsPage: React.FC = () => {
                   <polyline points="22,6 12,13 2,6"></polyline>
                 </svg>
               </InfoIcon>
-              <InfoText>support@maska.tv</InfoText>
+              <InfoText>support@maska.FR</InfoText>
             </InfoItem>
             
             <InfoItem>

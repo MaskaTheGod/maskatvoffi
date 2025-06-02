@@ -125,7 +125,7 @@
 }
 
 .brand-accent::after {
-  content: '.TV';
+  content: '.FR';
   position: absolute;
   left: 0;
   top: 0;
@@ -340,7 +340,7 @@
 }
 
 .logo-accent::before {
-  content: '.TV';
+  content: '.FR';
   position: absolute;
   left: 0;
   top: 0;

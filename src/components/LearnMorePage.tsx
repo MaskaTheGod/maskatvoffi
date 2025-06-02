@@ -627,7 +627,7 @@ const LearnMorePage: React.FC<LearnMorePageProps> = ({ onBack }) => {
             <HeroSubtitle>
               Explore our curated collection of <Highlight>exclusive content</Highlight>, 
               featuring stunning 4K visuals and immersive Dolby Atmos sound. 
-              Maska.TV redefines your streaming experience.
+              Maska.FR redefines your streaming experience.
             </HeroSubtitle>
           </motion.div>
           
@@ -798,7 +798,7 @@ const LearnMorePage: React.FC<LearnMorePageProps> = ({ onBack }) => {
               }
             }}
           >
-            Join millions of viewers already enjoying premium content on Maska.TV. 
+            Join millions of viewers already enjoying premium content on Maska.FR. 
             Start your journey today with a 7-day free trial.
           </CTAText>
           
